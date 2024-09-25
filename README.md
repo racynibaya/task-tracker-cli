@@ -86,7 +86,3 @@ node index.js help
 ## Data Storage
 
 The task data is stored in a JSON file (`data.json`) in the project directory. Make sure this file exists or will be generated upon the first task addition.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
